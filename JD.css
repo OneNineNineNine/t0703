@@ -1,0 +1,53 @@
+#logo{
+    position: absolute;
+    width: 300px;
+    margin: 10px 0;
+    height: 60px;
+    right: 600px;
+}
+#logo2{
+    position: relative;
+    top: 100px;
+}
+#bk{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right: 100px;
+    top: 60px;
+}
+#yq{
+    position: absolute;
+    top:750px;
+    left: 150px;
+    font-size: 12px;
+}
+#dl{
+    position: absolute;
+    right: 60px;
+    top: 30px;
+    font-size: 16px;
+}
+.Img1{
+    position: absolute;
+    left: 145px;
+    top:30px;
+    display: none;
+}
+.Img2{
+    position: absolute;
+    left: 80px;
+    top:30px;
+    border: 1px solid lightgray;
+    padding: 3px;
+}
+.Img3{
+    position: absolute;
+    top: 200px;
+}
+.box{
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
